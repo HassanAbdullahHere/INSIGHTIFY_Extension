@@ -20,7 +20,7 @@ export default function App() {
       "https://router.huggingface.co/v1/chat/completions",
       {
         headers: {
-          Authorization: `Bearer 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`,
+          Authorization: `Bearer YOUR_API_KEY`,
           "Content-Type": "application/json",
         },
         method: "POST",
