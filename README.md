@@ -1,7 +1,7 @@
 # 🔍 INSIGHTIFY Extension
 
 **INSIGHTIFY** is a Chrome extension that helps users quickly understand Amazon product reviews.  
-It scrapes reviews from product pages and generates a concise **AI-powered summary** (via Hugging Face models) so shoppers can make faster, smarter decisions.
+It scrapes reviews from product pages and generates a concise **AI-powered summary** (via Hugging Face model) so shoppers can make faster, smarter decisions.
 
 ---
 
